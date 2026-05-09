@@ -86,7 +86,7 @@ Authorization: Bearer {token}
 ```json
 {
   "id": "uuid",
-  "name": "John Doe",
+  "name": "  ",
   "email": "john@example.com",
   "role": "member",
   "createdAt": "2024-01-01T00:00:00Z"
