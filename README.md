@@ -362,12 +362,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Recharts**: For beautiful chart components
 - **Lucide**: For the comprehensive icon set
 - **Zustand**: For simple state management
-
-## 📞 Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
----
+- 
 
 **Built with ❤️ using React, TypeScript, and Tailwind CSS**
 
